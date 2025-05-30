@@ -1,7 +1,7 @@
 # Get Started
 
 ```bash
-mkdir build && cd build && cmake .. && -DCMAKE_INSTALL_PREFIX=dist
+mkdir build && cd build && cmake .. -DCMAKE_INSTALL_PREFIX=dist
 ```
 # How to run
 
